@@ -1,1 +1,8 @@
-test# hello-world
+# hello-world
+นี่คือ repo แรกของฉัน
+
+## สิ่งที่กำลังเรียน
+- Git
+- GitHub
+
+**ตัวหนา** และ *ตัวเอียง*
